@@ -9,7 +9,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
-  <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://c.tenor.com/Qpn2Qd4jxosAAAAC/chika-kaguya-sama-love-is-war.gif">
+  <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966">
 </div>
   
   ##
