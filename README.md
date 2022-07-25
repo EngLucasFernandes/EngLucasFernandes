@@ -2,6 +2,11 @@
   <a href="https://readme-typing-svg.herokuapp.com/demo/"><img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4486&color=FF79C6&center=verdadeiro&vCenter=falso&lines=printf(%22Hello%2C+world!%22);%3E%3E%3E+Hello%2C+world!"></a>
 </div>
 
+## 📄 Descrição
+
+<p align="center"><strong>Me chamo Lucas Fernandes. Tenho 18 anos. Estou cursando Ciência da Computação.</strong></p>
+<p align="center"><strong>"Não existe dom, existe condicionamento, que é praticar sempre almejando chegar mais próximo da perfeição, pois ela é inatingível. Este é o segredo de todo talento."</strong></p>
+
 ## 🛠️ Linguagens De Programação
 
 <div align="center">
