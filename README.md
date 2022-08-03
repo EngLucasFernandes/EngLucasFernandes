@@ -10,9 +10,9 @@
 ## 🛠️ Linguagens De Programação
 
 <div align="center">
-  <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
+  <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 ## 🔥 Estatísticas
