@@ -7,11 +7,13 @@
 <p align="center"><strong>Me chamo Lucas Fernandes. Tenho 18 anos. Estou cursando Ciência da Computação.</strong></p>
 <p align="center"><strong>"Não existe dom, existe condicionamento, que é praticar sempre almejando chegar mais próximo da perfeição, pois ela é inatingível. Este é o segredo de todo talento."</strong></p>
 
-## 🛠️ Linguagens De Programação
+## 🛠️ Linguagens
 
 <div align="center">
   <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
